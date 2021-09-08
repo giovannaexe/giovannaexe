@@ -1,4 +1,4 @@
-### <h1> Olá! Eu sou a Giovanna! Seja bem vind@ 😊 </h1>
+### <h1> Olá! Eu sou a Giovanna! 😊 </h1>
  
  💖 Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas
  💖 Estudando TypeScript
