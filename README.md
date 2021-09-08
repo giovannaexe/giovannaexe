@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Giovanna! 😊
 
-- 💖 Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas
-- 💖 Estudando TypeScript
+ 💖 Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas
+ 💖 Estudando TypeScript
 
  <div>
   <a href="https://github.com/giovannaexe">
