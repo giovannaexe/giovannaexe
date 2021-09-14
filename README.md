@@ -1,4 +1,4 @@
-### <h1> Oiii! Eu sou a Giovanna. Bem vindx ao meu GitHub! 😊 </h1>
+### <h1> Oiii! Eu sou a Giovanna.😊 </h1>
  
  💖 Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas
  💖 Estudando TypeScript
