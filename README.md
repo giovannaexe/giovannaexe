@@ -1,6 +1,4 @@
 ### <h1> Olá! Bem vindo(a) ao meu GitHub!  </h1>
- 
- 💖 Cursando Análise e Desenvolvimento de Sistemas
 
  <div>
   <a href="https://github.com/giovannaexe">
