@@ -1,4 +1,4 @@
-### <h1> Oiii! Eu sou a Giovanna.😊 </h1>
+### <h1> Olá! Eu sou a Giovanna </h1>
  
  💖 Cursando Análise e Desenvolvimento de Sistemas
 
